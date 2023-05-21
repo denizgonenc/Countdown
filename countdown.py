@@ -1,4 +1,3 @@
-import time
 from plyer import notification
 import tkinter as tk
 
